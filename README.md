@@ -1,7 +1,6 @@
-# Deep Learning Assignment 1 – Facial Expression Recognition
+# Facial Expression Recognition
 
-This repository contains the implementation of **Assignment 1** for the Deep Learning course at **NUCES FAST**.  
-The task involves **categorical facial expression recognition** and **continuous valence–arousal regression** using transfer learning with CNN baselines.
+This repository contains  **categorical facial expression recognition** and **continuous valence–arousal regression** using transfer learning with CNN baselines.
 
 ---
 
